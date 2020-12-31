@@ -7,14 +7,9 @@ click the link <a href='https://discord.com/api/oauth2/authorize?client_id=79371
 # how to use
 type **?help** to get a list of all commands once you have added the bot to your server. 
 
-Commands available:
-
-?help: gives commands
-
-?dates: returns important dates
-
-?dates-next: navigates to next page of dates
-
-?dates-prev: navigates to previous page of dates
-
-?nearest: returns the closest upcoming event
+**Commands available:**  
+?help: gives commands  
+?dates: returns important dates  
+?dates-next: navigates to next page of dates  
+?dates-prev: navigates to previous page of dates  
+?nearest: returns the closest upcoming event  
