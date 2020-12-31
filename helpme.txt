@@ -1,0 +1,6 @@
+The following commands are available under uwbot:
+**?help**                    provides possible commands
+**?dates**                  provides list of important dates
+**?dates-next**        navigates to next page of dates
+**?dates-prev**        navigates to previous page of dates
+**?nearest**              returns the nearest event
